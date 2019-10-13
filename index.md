@@ -11,4 +11,4 @@ We're a Texas company based in DFW.
 
 ## What do we do?
 
-We bring innovative Drone technology to your video capture projects.
+We bring innovative drone technology to your video capture projects.
