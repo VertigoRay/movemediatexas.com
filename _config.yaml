@@ -17,8 +17,8 @@ title: Move Media Texas
 email: comingsoon@movemediatexas.com
 phone: (817) 793-6817
 description: A new way of looking at your business.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://movemediatexas.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://www.movemediatexas.com"
 twitter_username: null
 github_username: null
 

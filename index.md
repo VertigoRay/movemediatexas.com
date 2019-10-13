@@ -5,16 +5,10 @@
 layout: default
 ---
 
-# Soon
+# Move Media
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+We're a Texas company based in DFW.
 
-## What's in it?
+## What do we do?
 
-A single static page with a full screen image. Remember those *under construction* sites? The point is to have a contact page for a few hours or a few days while you are building your amazing site.
-
-***
-
-## Get started
-
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+We bring innovative Drone technology to your video capture projects.
